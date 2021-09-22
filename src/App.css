@@ -1,3 +1,39 @@
+.main-1{
+  width: 47%;
+  height: 150px;
+  border: 2px solid black;
+  margin: 10px;
+  align-items: center;
+  display: inline-block;
+}
+.input-top{
+  margin: 3px;
+}
+.main-2{
+border: 2px solid gray;
+margin: 10px;
+padding: 10px;
+}
+.completeTask-colunm1{
+float: left;
+}
+.uncompleteTask-colunm2{
+  float: right;
+  }
+  
+
+.bottom-div{
+  width: 95%;
+  border: 3px solid gray;
+  display: inline-block;
+  text-align: center;
+}
+.doneCheck{
+  height: 40px;
+  width: 100px;
+  border: 1px solid gray;
+  display: inline-block;
+}
 .App {
   text-align: center;
 }
