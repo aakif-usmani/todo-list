@@ -1,0 +1,7 @@
+.uncompleteTask{
+    height: 200px;
+}
+.done-task-button{
+    /* display: inline; */
+    float: right; 
+}
