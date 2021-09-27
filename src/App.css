@@ -6,6 +6,10 @@
   align-items: center;
   display: inline-block;
 }
+.taskInput1{
+  display: flex!important;
+  justify-content: center;
+}
 .input-top{
   margin: 3px;
 }
