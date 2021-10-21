@@ -1,6 +1,12 @@
+.redBorder{
+ border:red 1px solid;
+}
+.noborder{
+margin: 0 auto;
+}
 .main-1{
   width: 47%;
-  height: 150px;
+  /* height: 150px; */
   border: 2px solid black;
   margin: 10px;
   align-items: center;
@@ -15,8 +21,8 @@
 }
 .main-2{
 border: 2px solid gray;
-margin: 10px;
-padding: 10px;
+margin: 3px;
+padding: 3px;
 display: inline-block;
 width: 95%;
 }
@@ -35,7 +41,7 @@ float: left;
   text-align: center;
 }
 .doneCheck{
-  height: 40px;
+  /* height: 40px; */
   width: 100px;
   border: 1px solid gray;
   display: inline-block;
